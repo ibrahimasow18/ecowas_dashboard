@@ -1,0 +1,25 @@
+{
+  "integrated-hcd-index": "Índice integrado de DCH",
+  "progress": "Progressos realizados desde 2017",
+  "progress-made": "Progressos realizados",
+  "health": "Saúde e nutrição",
+  "education": "Educação, competências e participação laboral",
+  "entrepreneurship": "Empreendedorismo, inclusão financeira e economia digital",
+  "hcd-gender-index": {
+    "title-label": "Índice de género da DCH",
+    "latest-value": "Valor mais recente",
+    "latest-value-normalized": "Último valor normalizado"
+  },
+  "target-value": "Valor alvo",
+  "baseline": "Baseline",
+  "latest": "Valor mais recente",
+  "baseline-normalized": "Baseline normalizado",
+  "target-latest-value": "Meta para o valor mais recente",
+  "target-latest-value-normalized": "Objetivo para o último valor normalizado",
+  "target-2030": "Valor alvo 2030",
+  "target-2030-normalized": "Meta 2030 normalizada",
+  "rank": "Classificação",
+  "aggregated-index": "Índice agregado",
+  "all-values": "Todos os valores",
+  "latest-vs-target": "Valor recente vs Objetivo`"
+}

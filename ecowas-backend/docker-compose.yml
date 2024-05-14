@@ -1,0 +1,19 @@
+version: '3'
+
+services:
+  postgres:
+    image: postgres:latest
+    container_name: ecowas_pg_beta
+    restart: always
+    ports:
+      - '5431:5432'
+    volumes:
+      - ecowas_pg_beta:/var/lib/postgresql/data
+    env_file: '.env'
+  adminer:
+    image: adminer
+    ports:
+      - '8080:8080'
+
+volumes:
+  ecowas_pg_beta:
